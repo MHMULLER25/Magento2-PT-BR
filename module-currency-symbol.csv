@@ -7,7 +7,7 @@ Import,Importar
 "Use Standard","Usar Padrão"
 "Currency Rates","Taxas de Câmbio"
 "Please specify a correct Import Service.","Por favor especificar o serviço a ser importado."
-"We can't initialize the import model.","We can't initialize the import model."
+"We can't initialize the import model.","Não é possível incializar o modelo de importação."
 "All possible rates were fetched, please click on ""Save"" to apply","All possible rates were fetched, please click on ""Save"" to apply"
 "All rates were fetched, please click on ""Save"" to apply","All rates were fetched, please click on ""Save"" to apply"
 "Please correct the input data for %1 => %2 rate","Please correct the input data for %1 => %2 rate"
